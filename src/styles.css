@@ -2,3 +2,13 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.Person {
+  width: 60%;
+  margin: 16px auto;
+  background-color: #fff;
+  box-shadow: 0 2px 3px #ccc;
+  border: 1px solid grey;
+  padding: 16px;
+  text-align: center;
+}
